@@ -1,0 +1,10 @@
+# Sample Log File for Log File Analyzer Project
+# Created by Joshua Erwin – April 2025
+# This file contains simulated SSH log entries for testing purposes
+
+Feb 12 08:01:23 server sshd[1234]: Failed password for invalid user admin from 192.168.1.15 port 22 ssh2
+Feb 12 08:01:25 server sshd[1235]: Accepted password for user1 from 192.168.1.20 port 22 ssh2
+Feb 12 08:02:03 server sshd[1236]: Failed password for root from 192.168.1.25 port 22 ssh2
+Feb 12 08:05:12 server sshd[1237]: error: PAM: Authentication failure for illegal user
+Feb 12 08:07:00 server sshd[1238]: Connection closed by 192.168.1.20
+
